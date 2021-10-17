@@ -1,0 +1,14 @@
+ Volume in drive D is Data
+ Volume Serial Number is 8A76-06AE
+
+ Directory of D:\abc
+
+17-10-2021  10:42    <DIR>          .
+17-10-2021  10:42    <DIR>          ..
+17-10-2021  10:42                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,659,390,976 bytes free
+
+
+
+changes kjdhkjdhf
